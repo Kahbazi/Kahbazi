@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![HitCount](http://hits.dwyl.com/kahbazi/kahbazi.svg)](http://hits.dwyl.com/kahbazi/kahbazi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kahbazi.svg?style=social)](https://twitter.com/kahbazi)
 
 <!--
 **Kahbazi/Kahbazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
